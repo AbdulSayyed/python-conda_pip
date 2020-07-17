@@ -7,3 +7,6 @@ to install your packages. However, you may still want to use `pip`. In
 this case, you should **not** use a `requirements.txt` file, but instead use
 a `- pip` section in `environment.yml`. This repository is an example of how
 to construct your `environment.yml` file to accomplish this.
+
+This is added by me
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AbdulSayyed/python-conda_pip/master?filepath=index.ipyng)
